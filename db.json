@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Tech Conference",
+      "description": "A conference about technology.",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 2,
+      "name": "Music Festival",
+      "description": "A festival full of music.",
+      "date": "2024-10-10"
+    }
+  ]
+}
